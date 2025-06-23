@@ -49,7 +49,8 @@ I'm transitioning from **Biochemistry** into the world of **Data & AI**.
 This project is my bridge — from molecules to machine learning! 🧪➡️🧠  
 It reflects my research mindset combined with modern analytical tools.
 
-📫 **Let’s connect**:  
-[🌐 LinkedIn – Madhumitha Murugaiyan](https://www.linkedin.com/in/madhumitha-murugaiyan-9b59b0191/)
+📫 Let’s connect:  
+🌐 [LinkedIn – Madhumitha Murugaiyan](https://www.linkedin.com/in/madhumitha-murugaiyan-9b59b0191/)
+
   
 
