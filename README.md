@@ -7,33 +7,38 @@ This project explores real-world **World Health Organization (WHO)** data to und
 ---
 
 ## 🔍 What’s Inside
-- 📊 Data cleaning and preprocessing using Python
-- 📈 Visualizations of GDP, Schooling, Alcohol vs Life Expectancy
-- 🔥 Correlation heatmap of health & economic variables
-- 🤖 Machine Learning: Random Forest + XGBoost
-- 🎯 Model comparison using R² and RMSE
-- 💡 SHAP plots for feature explainability
+- 📊 Data cleaning and preprocessing using Python  
+- 📈 Visualizations: GDP, Schooling, Alcohol vs Life Expectancy  
+- 🔥 Correlation heatmap of health & economic variables  
+- 🤖 Machine Learning: Random Forest + XGBoost  
+- 🎯 Model comparison using R² and RMSE  
+- 💡 SHAP plots for feature explainability  
 - 💾 Model saved for reuse (deployment-ready)
 
 ---
 
 ## 💻 Tools & Libraries
-- Python, Pandas, Matplotlib, Seaborn
-- Scikit-learn, XGBoost, SHAP
+- Python  
+- Pandas  
+- Matplotlib  
+- Seaborn  
+- Scikit-learn  
+- XGBoost  
+- SHAP  
 - Jupyter Notebook (Google Colab)
 
 ---
 
 ## 🧠 Key Findings
-- 📚 **Schooling** and 💰 **GDP** are strong predictors of higher life expectancy
-- 🥂 **Alcohol consumption** has a more complex, weaker relationship
-- 🚀 **XGBoost** outperformed other models with an R² ~0.85
+- 📚 **Schooling** and 💰 **GDP** are strong predictors of higher life expectancy  
+- 🥂 **Alcohol consumption** has a weaker, complex relationship  
+- 🚀 **XGBoost** outperformed other models with an R² of ~0.85
 
 ---
 
 ## 📁 Files Included
-- `life_expectancy.ipynb` – Full notebook (Google Colab)
-- `life_expectancy_full_sample.csv` – The dataset
+- `life_expectancy.ipynb` – Full notebook (Google Colab)  
+- `life_expectancy_full_sample.csv` – The dataset  
 - `life_expectancy_xgb_model.pkl` – Trained XGBoost model (optional)
 
 ---
@@ -42,14 +47,9 @@ This project explores real-world **World Health Organization (WHO)** data to und
 
 I'm transitioning from **Biochemistry** into the world of **Data & AI**.  
 This project is my bridge — from molecules to machine learning! 🧪➡️🧠  
-It reflects my research mindset combined with modern data tools.
+It reflects my research mindset combined with modern analytical tools.
 
-📫 Connect with me:  
+📫 **Let’s connect**:  
 [🌐 LinkedIn – Madhumitha Murugaiyan](https://www.linkedin.com/in/madhumitha-murugaiyan-9b59b0191/)
-
-
-## 🙋‍♀️ About Me
-I’m transitioning from Biochemistry into Data & AI. This project represents my journey from molecules to models — combining research mindset with analytical tools.
-
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/madhumitha-murugaiyan-9b59b0191/)  
+  
 
