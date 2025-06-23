@@ -42,7 +42,4 @@ This project uses real-world **World Health Organization (WHO)** data to explore
 I’m transitioning from Biochemistry into Data & AI. This project represents my journey from molecules to models — combining research mindset with analytical tools.
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/madhumitha-murugaiyan-9b59b0191/)  
-💖 Thanks for visiting my GitHub!
 
-—
-*Made with love by Ammu 🌱*
